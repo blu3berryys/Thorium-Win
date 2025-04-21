@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-**Add all the stuffz here**
+**Add all the stuff here**
